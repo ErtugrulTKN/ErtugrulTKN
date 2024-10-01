@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ertugrul</h1>
 <h3 align="center">🏫 Computer Science Student 💻 Data Science Practitioner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrultkn" alt="ertugrultkn" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ertugrultkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrultkn" height="30" width="40" /></a>

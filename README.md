@@ -1,4 +1,3 @@
-[![MasterHead](https://wall.alphacoders.com/big.php?i=1289706)
 <h1 align="center">Hi 👋, I'm Ertugrul</h1>
 <h3 align="center">🏫 Computer Science Student 💻 Data Science Practitioner</h3>
 

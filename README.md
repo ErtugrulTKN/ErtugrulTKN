@@ -1,4 +1,4 @@
-[![MasterHead]([[https://wall.alphacoders.com/big.php?i=1289706](https://www.mediafire.com/view/hku7k10jamb0f47/1289706.jpg/file)](https://www.mediafire.com/view/hku7k10jamb0f47/1289706.jpg/file))
+[![MasterHead](https://www.mediafire.com/file/hku7k10jamb0f47/1289706.jpg/file)
 
 <h1 align="center">Hi 👋, I'm Ertugrul</h1>
 <h3 align="center">🏫 Computer Science Student 💻 Data Science Practitioner</h3>

@@ -1,4 +1,5 @@
 [![MasterHead](https://hizliresim.com/4csa7jq)
+
 <h1 align="center">Hi 👋, I'm Ertugrul</h1>
 <h3 align="center">🏫 Computer Science Student 💻 Data Science Practitioner</h3>
 

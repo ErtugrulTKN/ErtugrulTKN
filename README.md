@@ -1,7 +1,7 @@
 ![MasterHead](https://images5.alphacoders.com/128/1289706.jpg)
 
 <h1 align="center">Hi 👋, I'm Ertugrul</h1>
-<h3 align="center">🏫 Computer Science Student 💻 Data Science Practitioner</h3>
+<h3 align="center">💻 Data Science Practitioner</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
